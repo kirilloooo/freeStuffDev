@@ -9,6 +9,6 @@ snippet: >-
 tags: ["file-uploader", "storage", " image-api", "image-hosting", "media-CDN"]
 createdAt: 2022-01-25T00:00:00.000Z
 ---
-3000 uploads
-30 GB traffic 
-3 GB storage
+10 MB max file size
+5 GB traffic 
+1 GB storage
